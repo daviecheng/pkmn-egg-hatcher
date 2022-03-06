@@ -3,11 +3,11 @@
 ## Summary
 Circuit that simulates button presses on the Nintendo Switch Joycon to automate the egg hatching process in Pokemon BDSP game.
 
-## Video Demonstration
-in progress..
+## Video
+Video demonstration is in my GitHub page http://daviecheng.github.io/
 
 ## Circuit
-in progress..
+<img src="https://user-images.githubusercontent.com/84931559/156908028-c8b3e45e-7d43-4320-8ea3-f250b777e147.jpg" width="500px">
 
 ## Circuit Schematic
-<img src="https://user-images.githubusercontent.com/84931559/155206936-d853a81b-d3f2-4ce2-a6ac-e13b35ab7051.JPG" width="1000px">
+<img src="https://user-images.githubusercontent.com/84931559/156908063-e8a2c7cb-5df3-4f24-bdd8-cbacccc5271d.JPG" width="1000px">
